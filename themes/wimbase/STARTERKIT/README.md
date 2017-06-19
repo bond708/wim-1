@@ -39,6 +39,7 @@ $ cd profiles/wim/themes/wimbase/
 ```sh
 $ cp -R STARTERKIT ../../../../sites/all/themes/custom/YOURTHEME
 ```
+Use $ xcopy when using windows
 3. navigate to your theme and rename .info file
 ```sh
 $ cd ../../../../sites/all/themes/custom/YOURTHEME
